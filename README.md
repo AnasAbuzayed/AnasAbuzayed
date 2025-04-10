@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQH94zprF3yuHw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1700046024987?e=1749686400&v=beta&t=KDffCYLzY8-kj3d79VjIK_psLwzr_9PKuYiNgvw8AMU" width="150" alt="Anas Abuzayed">
-</p>
 
 # 👋 Hi there
 
-I'm a **Senior Research Associate** with over 7 years of experience and a **Doctoral Candidate at FAU Erlangen Nuremberg** dedicated to advancing the **energy transition** through innovative modeling and analysis. I have worked on several projects in Europe, Middle East, and Africa. Below is an overview of my background, experience, projects, and contributions to the field.
+I'm a **Senior Research Associate** with over 8 years of experience and a **Doctoral Candidate at FAU Erlangen Nuremberg** dedicated to advancing the **energy transition** through innovative modeling and analysis. I have worked on several projects in Europe, Middle East, and Africa. Below is an overview of my background, experience, projects, and contributions to the field.
 
 ---
 
