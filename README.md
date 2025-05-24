@@ -10,7 +10,7 @@ I'm a **Senior Research Associate** with over 8 years of experience and a **Doct
 <table>
   <tr>
     <td align="center" width="170">
-      <img src="https://www.jbs.cam.ac.uk/nitropack_static/BdQvLhNEPrUniezoRrLDMvWSOTvVFrBU/assets/images/optimized/rev-75906ec/www.jbs.cam.ac.uk/wp-content/uploads/2023/05/logo-transparent_cjbs-300x92.png" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/Cambridge_Judge_Business_School_%28logo%29.png" height="60"/>
     </td>
     <td>
       <strong>Visiting PhD Candidate at the Energy Policy Research Group (Prof. Michael Pollitt)</strong><br>
