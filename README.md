@@ -96,6 +96,11 @@ Funded by PSUT to develop the first open-source, high-resolution energy system m
 
 ## 📝 Selected Publications
 
+- **Hydrogen-ready power plants: Optimizing pathways to a decarbonized energy system in Germany**  
+  _With Mario Liebensteiner & Niklas Hartmann_  
+  🗓️ October 2025  
+  🔗 [Applied Energy](https://doi.org/10.1016/j.apenergy.2025.126228)
+
 - **High Electricity Prices Despite Expansion in Renewables**  
   _With Mario Liebensteiner & Fabian Ocker_  
   🗓️ March 2025  
